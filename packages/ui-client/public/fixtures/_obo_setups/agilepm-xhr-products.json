@@ -1,0 +1,32 @@
+{
+   "content":[
+      {
+         "id":1,
+         "name":"Product Management SaaS App",
+         "allowedPrivileges":[
+            "view",
+            "update",
+            "delete"
+         ],
+         "businessId":"PR-0",
+         "featureCount":160,
+         "ideaCount":137,
+         "status":{
+            "id":1,
+            "uniqueName":"active",
+            "value":0,
+            "description":"",
+            "displayName":"Active",
+            "isDefault":false
+         }
+      }
+   ],
+   "last":true,
+   "totalPages":1,
+   "totalElements":1,
+   "sort":null,
+   "first":true,
+   "numberOfElements":1,
+   "size":2000,
+   "number":0
+}

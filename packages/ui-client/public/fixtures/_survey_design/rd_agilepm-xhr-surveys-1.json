@@ -1,0 +1,109 @@
+{
+	"id": 1,
+	"createdDate": 1514500584942,
+	"modifiedDate": 1514500733656,
+	"sstatus": "Active",
+	"createdBy": {
+		"email": "dale@agilepm.cloud",
+		"fname": "Dale",
+		"lname": "Sakai",
+		"id": 5
+	},
+	"modifiedBy": {
+		"email": "dale@agilepm.cloud",
+		"fname": "Dale",
+		"lname": "Sakai",
+		"id": 5
+	},
+	"name": "WillsBigDummySurvey",
+	"description": "Testing out the creation of a survey and access through my local",
+	"owner": {
+		"email": "dale@agilepm.cloud",
+		"fname": "Dale",
+		"lname": "Sakai",
+		"id": 5
+	},
+	"tags": null,
+	"projectBaseUrl": null,
+	"marginError": null,
+	"status": {
+		"id": 1,
+		"uniqueName": "not_started",
+		"value": 0,
+		"description": "",
+		"displayName": "Not Started",
+		"isDefault": true
+	},
+	"type": {
+		"id": 1,
+		"uniqueName": "survey",
+		"value": 0,
+		"description": "",
+		"displayName": "Survey",
+		"isDefault": false
+	},
+	"audienceType": null,
+	"startDate": null,
+	"endDate": null,
+	"quotas": [],
+	"projectVendors": [],
+	"estimatedTimeMinute": null,
+	"estimatedTotalPrice": null,
+	"priceUnit": null,
+	"numberTargetResponses": 0,
+	"ideas": [],
+	"products": [],
+	"features": [],
+	"forwardRelations": [],
+	"backwardRelations": [],
+	"links": null,
+	"numberQualifiedResponses": 0,
+	"relatedProjects": [],
+	"hostingUrlParams": "pid=1",
+	"relatedSurveys": [],
+	"numberQuestions": 1,
+	"template": {
+		"id": 1,
+		"createdDate": 1513910369598,
+		"modifiedDate": 1513910369598,
+		"sstatus": "Active",
+		"createdBy": null,
+		"modifiedBy": null,
+		"name": "Blank survey",
+		"description": null,
+		"category": "blank",
+		"template": {
+			"sections": [{
+				"id": "S1",
+				"isHeader": true,
+				"label": "",
+				"description": "Thank you for participating in our research. The study will only take a few minutes to complete. All of your answers are private and confidential.",
+				"questions": [{
+					"id": "Q1",
+					"field": "BUTTON",
+					"template": "SINGLE_ANSWER",
+					"multiple": false,
+					"other": false,
+					"label": "",
+					"description": "",
+					"options": [{
+						"label": "",
+						"value": "O1"
+					}, {
+						"label": "",
+						"value": "O2"
+					}, {
+						"label": "",
+						"value": "O3"
+					}]
+				}]
+			}, {
+				"id": "S2",
+				"isFooter": true,
+				"label": "Your responses have been recorded.",
+				"description": "Thank you for taking time to complete the survey. Your input is very valuable to us.",
+				"questions": []
+			}]
+		}
+	}
+}

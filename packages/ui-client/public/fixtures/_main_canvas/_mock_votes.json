@@ -1,0 +1,99 @@
+{
+   "votes":{
+      "featureId":"17mock-U",
+      "instance":{
+         "table":{
+            "adjuster":{
+               "reflect":[
+                  "Archive",
+                  "Copy",
+                  "Refresh"
+               ],
+               "sort":[
+                  "Active Votes",
+                  "Previous Votes"
+               ]
+            },
+            "header":[
+               {
+                  "column_1":"NAME",
+                  "column_2":"SOURCE",
+                  "column_3":"DATE"
+               }
+            ]
+         }
+      },
+      "data":[
+         {
+            "name":"Merissa Buono",
+            "source":"Discovery Interview",
+            "date":1451894400
+         },
+         {
+            "name":"Hai Poston",
+            "source":"Weekly Product Council",
+            "date":1453968000
+         },
+         {
+            "name":"Kritsal Mcmakin",
+            "source":"Hallway Conversation",
+            "date":1451894400
+         },
+         {
+            "name":"Dusti Hanner",
+            "source":"Win/Loss Analysis",
+            "date":1451894400
+         },
+         {
+            "name":"Shasta Ballou",
+            "source":"Churn Interview",
+            "date":1451894400
+         },
+         {
+            "name":"Angel Bratten",
+            "source":"QBR",
+            "date":1451894400
+         },
+         {
+            "name":"Vensesa Currey",
+            "source":"Meeting",
+            "date":1451894400
+         },
+         {
+            "name":"Stephen Hoak",
+            "source":"Web Review",
+            "date":1451894400
+         },
+         {
+            "name":"Tiera Cava",
+            "source":"Discovery Interview",
+            "date":1451894400
+         },
+         {
+            "name":"Jutta Dimeo",
+            "source":"Weekly Conversation",
+            "date":1451894400
+         },
+         {
+            "name":"Liliana Slaughter",
+            "source":"Hallway Conversation",
+            "date":1451894400
+         },
+         {
+            "name":"Jeremy Lack",
+            "source":"Win/Loss Analysis",
+            "date":1451894400
+         },
+         {
+            "name":"Yasimie Lamark",
+            "source":"Churn Interview",
+            "date":1451894400
+         },
+         {
+            "name":"Emma Molloy",
+            "source":"QBR",
+            "date":1451894400
+         }
+      ]
+   }
+}

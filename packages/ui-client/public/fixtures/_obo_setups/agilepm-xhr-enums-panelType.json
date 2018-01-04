@@ -1,0 +1,28 @@
+{
+   "content":[
+      {
+         "id":1,
+         "uniqueName":"internal",
+         "value":0,
+         "description":"",
+         "displayName":"Internal",
+         "isDefault":false
+      },
+      {
+         "id":2,
+         "uniqueName":"purchased",
+         "value":1,
+         "description":"",
+         "displayName":"Purchased",
+         "isDefault":false
+      }
+   ],
+   "last":true,
+   "totalPages":1,
+   "totalElements":2,
+   "sort":null,
+   "first":true,
+   "numberOfElements":2,
+   "size":0,
+   "number":0
+}

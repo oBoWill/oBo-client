@@ -1,0 +1,128 @@
+{
+	"id": 1,
+	"createdDate": 1514500585033,
+	"modifiedDate": 1514511378570,
+	"sstatus": "Active",
+	"createdBy": {
+		"email": "dale@agilepm.cloud",
+		"fname": "Dale",
+		"lname": "Sakai",
+		"id": 5
+	},
+	"modifiedBy": {
+		"email": "dale@agilepm.cloud",
+		"fname": "Dale",
+		"lname": "Sakai",
+		"id": 5
+	},
+	"template": {
+		"id": 1,
+		"createdDate": 1513910369598,
+		"modifiedDate": 1513910369598,
+		"sstatus": "Active",
+		"createdBy": null,
+		"modifiedBy": null,
+		"name": "Blank survey",
+		"description": null,
+		"category": "blank",
+		"template": {
+			"sections": [{
+				"id": "S1",
+				"isHeader": true,
+				"label": "",
+				"description": "Thank you for participating in our research. The study will only take a few minutes to complete. All of your answers are private and confidential.",
+				"questions": [{
+					"id": "Q1",
+					"field": "BUTTON",
+					"template": "SINGLE_ANSWER",
+					"multiple": false,
+					"other": false,
+					"label": "",
+					"description": "",
+					"options": [{
+						"label": "",
+						"value": "O1"
+					}, {
+						"label": "",
+						"value": "O2"
+					}, {
+						"label": "",
+						"value": "O3"
+					}]
+				}]
+			}, {
+				"id": "S2",
+				"isFooter": true,
+				"label": "Your responses have been recorded.",
+				"description": "Thank you for taking time to complete the survey. Your input is very valuable to us.",
+				"questions": []
+			}]
+		}
+	},
+	"project": {
+		"name": "WillsBigDummySurvey",
+		"id": 1
+	},
+	"design": {
+		"sections": [{
+			"id": "S1",
+			"isHeader": true,
+			"label": "You Big Dummy",
+			"description": "Thank you for participating in our research. The study will only take a few minutes to complete. All of your answers are private and confidential.",
+			"questions": [{
+				"accessor": null,
+				"multiple": false,
+				"other": false,
+				"randomize": true,
+				"label": "",
+				"template": "SINGLE_ANSWER",
+				"field": "BUTTON",
+				"source": {
+					"label": "Input Text",
+					"value": "TEXT"
+				},
+				"id": "Q1514511328876",
+				"description": "",
+				"options": [{
+					"label": "",
+					"value": "O1"
+				}]
+			}, {
+				"id": "Q1",
+				"field": "TEXT_F",
+				"template": "SHORT_ANSWER",
+				"label": "What was Sanford and Suns occupation?",
+				"description": "",
+				"placeholder": "the type of employment",
+				"required": true
+			}]
+		}, {
+			"id": "S2",
+			"isFooter": true,
+			"label": "Your responses have been recorded.",
+			"description": "Thank you for taking time to complete the survey. Your input is very valuable to us.",
+			"questions": []
+		}],
+		"errors": {
+			"$.sections[0].questions[0].label": [{
+				"keyword": "minLength",
+				"params": {
+					"limit": 1
+				},
+				"message": "should NOT be shorter than 1 characters",
+				"dataPath": "/label",
+				"schemaPath": "#/properties/label/minLength"
+			}],
+			"$.sections[0].questions[0].options[0].label": [{
+				"keyword": "minLength",
+				"params": {
+					"limit": 1
+				},
+				"message": "should NOT be shorter than 1 characters",
+				"dataPath": "/options/0/label",
+				"schemaPath": "/definitions.json#/itemType/properties/label/minLength"
+			}]
+		}
+	},
+	"numberQuestions": 2
+}

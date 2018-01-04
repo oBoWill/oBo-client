@@ -1,0 +1,122 @@
+{
+    "details":{
+       "featureId":"17mock-U",
+       "data": [
+                 {
+                   "value": "4 days",
+                   "label": "cost"
+                 },
+                 {
+                   "value": "50%",
+                   "label": "Cost Confidence"
+                 },
+                 {
+                   "value": "simon",
+                   "label": "Owner"
+                 },
+                 {
+
+                   "value": "Not Required",
+                   "label": "Required",
+
+                   "required": [
+                                  { "value_1" : "Not Required" },
+                                  { "value_2" : "Required"},
+                                  { "value_3" : "Optional"}
+                                ]
+                 },
+                 {
+
+                   "value": "Berylium",
+                   "label": "Target Release",
+                   "targetRelease": [
+                                  { "value_1" : "Berylium" },
+                                  { "value_2" : "Radium"},
+                                  { "value_3" : "Strontium"},
+                                  { "value_4" : "Calcium"},
+                                  { "value_5" : "Magnesium"}
+                                ]
+                 },
+                 {
+                   "value": "Font Log",
+                   "label": "Researchable",
+                  "researchable": [
+                                  { "value_1" : "Front Log" },
+                                  { "value_2" : "Back Log"},
+                                  { "value_3" : "Future Log"}
+                                ]
+                 }
+           ],
+       "valueDrivers":[
+                        {
+                          "label" : "Track & Engagement",
+                          "rangeBottom" : 0,
+                          "rangeTop" : 5,
+                          "value": 0
+                        },
+                        {
+                          "label" : "Differentiation",
+                          "rangeBottom" : 0,
+                          "rangeTop" : 5,
+                          "value": 2
+                        },
+                        {
+                          "label" : "Sticky",
+                          "rangeBottom" : 0,
+                          "rangeTop" : 5,
+                          "value": 3
+                        },
+                        {
+                          "label" : "Timing",
+                          "rangeBottom" : 0,
+                          "rangeTop" : 5,
+                          "value": 0
+                        },
+                        {
+                          "label" : "Audience",
+                          "rangeBottom" : 0,
+                          "rangeTop" : 5,
+                          "value": 0
+                        },
+                        {
+                          "label" : "Revenue",
+                          "rangeBottom" : 0,
+                          "rangeTop" : 5,
+                          "value": 4
+                        },
+                        {
+                          "label" : "Delighter",
+                          "rangeBottom" : 0,
+                          "rangeTop" : 5,
+                          "value": 0
+                        },
+                        {
+                          "label" : "Renewals",
+                          "rangeBottom" : 0,
+                          "rangeTop" : 5,
+                          "value": 0
+                        },
+                        {
+                          "label" : "Cogs",
+                          "rangeBottom" : 0,
+                          "rangeTop" : 5,
+                          "value": 4
+                        },
+                        {
+                          "label" : "Technical Debt",
+                          "rangeBottom" : 0,
+                          "rangeTop" : 5,
+                          "value": 0
+                        },
+                        {
+                          "label" : "Strategic",
+                          "rangeBottom" : 0,
+                          "rangeTop" : 5,
+                          "value": 0
+                        }
+                      ]
+
+       }
+
+
+}

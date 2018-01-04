@@ -1,0 +1,44 @@
+{
+   "content":[
+      {
+         "id":1,
+         "uniqueName":"not_started",
+         "value":0,
+         "description":"",
+         "displayName":"Not Started",
+         "isDefault":true
+      },
+      {
+         "id":2,
+         "uniqueName":"in_progress",
+         "value":1,
+         "description":"",
+         "displayName":"In Progress",
+         "isDefault":false
+      },
+      {
+         "id":3,
+         "uniqueName":"paused",
+         "value":2,
+         "description":"",
+         "displayName":"Paused",
+         "isDefault":false
+      },
+      {
+         "id":4,
+         "uniqueName":"completed",
+         "value":3,
+         "description":"",
+         "displayName":"Completed",
+         "isDefault":false
+      }
+   ],
+   "last":true,
+   "totalPages":1,
+   "totalElements":4,
+   "sort":null,
+   "first":true,
+   "numberOfElements":4,
+   "size":0,
+   "number":0
+}

@@ -1,0 +1,348 @@
+{
+   "content":[
+      {
+         "id":1,
+         "createdDate":1513910369598,
+         "modifiedDate":1513910369598,
+         "sstatus":"Active",
+         "createdBy":null,
+         "modifiedBy":null,
+         "name":"Blank survey",
+         "description":null,
+         "category":"blank",
+         "template":{
+            "sections":[
+               {
+                  "id":"S1",
+                  "isHeader":true,
+                  "label":"",
+                  "description":"Thank you for participating in our research. The study will only take a few minutes to complete. All of your answers are private and confidential.",
+                  "questions":[
+                     {
+                        "id":"Q1",
+                        "field":"BUTTON",
+                        "template":"SINGLE_ANSWER",
+                        "multiple":false,
+                        "other":false,
+                        "label":"",
+                        "description":"",
+                        "options":[
+                           {
+                              "label":"",
+                              "value":"O1"
+                           },
+                           {
+                              "label":"",
+                              "value":"O2"
+                           },
+                           {
+                              "label":"",
+                              "value":"O3"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "id":"S2",
+                  "isFooter":true,
+                  "label":"Your responses have been recorded.",
+                  "description":"Thank you for taking time to complete the survey. Your input is very valuable to us.",
+                  "questions":[
+
+                  ]
+               }
+            ]
+         },
+         "color":"white"
+      },
+      {
+         "id":2,
+         "createdDate":1513910369598,
+         "modifiedDate":1513910369598,
+         "sstatus":"Active",
+         "createdBy":null,
+         "modifiedBy":null,
+         "name":"Competitive intelligence",
+         "description":"Better understand the capabilities and objectives of your competitors by analyzing sales, customers, partners and the market landscape.",
+         "category":"competitive",
+         "template":{
+            "sections":[
+               {
+                  "id":"S1",
+                  "isHeader":true,
+                  "label":"",
+                  "description":"Thank you for participating in our research. The study will only take a few minutes to complete. All of your answers are private and confidential.",
+                  "questions":[
+                     {
+                        "id":"Q1",
+                        "field":"BUTTON",
+                        "template":"SINGLE_ANSWER",
+                        "multiple":false,
+                        "other":false,
+                        "label":"",
+                        "description":"",
+                        "options":[
+                           {
+                              "label":"",
+                              "value":"O1"
+                           },
+                           {
+                              "label":"",
+                              "value":"O2"
+                           },
+                           {
+                              "label":"",
+                              "value":"O3"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "id":"S2",
+                  "isFooter":true,
+                  "label":"Your responses have been recorded.",
+                  "description":"Thank you for taking time to complete the survey. Your input is very valuable to us.",
+                  "questions":[
+
+                  ]
+               }
+            ]
+         },
+         "color":"pink lighten-2"
+      },
+      {
+         "id":3,
+         "createdDate":1513910369598,
+         "modifiedDate":1513910369598,
+         "sstatus":"Active",
+         "createdBy":null,
+         "modifiedBy":null,
+         "name":"Product strategy and positioning",
+         "description":"Position your product in the market by defining key value proposition and functional attributes to help develop your strategy.",
+         "category":"strategy",
+         "template":{
+            "sections":[
+               {
+                  "id":"S1",
+                  "isHeader":true,
+                  "label":"",
+                  "description":"Thank you for participating in our research. The study will only take a few minutes to complete. All of your answers are private and confidential.",
+                  "questions":[
+                     {
+                        "id":"Q1",
+                        "field":"BUTTON",
+                        "template":"SINGLE_ANSWER",
+                        "multiple":false,
+                        "other":false,
+                        "label":"",
+                        "description":"",
+                        "options":[
+                           {
+                              "label":"",
+                              "value":"O1"
+                           },
+                           {
+                              "label":"",
+                              "value":"O2"
+                           },
+                           {
+                              "label":"",
+                              "value":"O3"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "id":"S2",
+                  "isFooter":true,
+                  "label":"Your responses have been recorded.",
+                  "description":"Thank you for taking time to complete the survey. Your input is very valuable to us.",
+                  "questions":[
+
+                  ]
+               }
+            ]
+         },
+         "color":"purple lighten-3"
+      },
+      {
+         "id":4,
+         "createdDate":1513910369598,
+         "modifiedDate":1513910369598,
+         "sstatus":"Active",
+         "createdBy":null,
+         "modifiedBy":null,
+         "name":"Product concept and design feedback",
+         "description":"Test your design concepts to gather real user feedback and help ensure an intuitive customer experience.",
+         "category":"concept",
+         "template":{
+            "sections":[
+               {
+                  "id":"S1",
+                  "isHeader":true,
+                  "label":"",
+                  "description":"Thank you for participating in our research. The study will only take a few minutes to complete. All of your answers are private and confidential.",
+                  "questions":[
+                     {
+                        "id":"Q1",
+                        "field":"BUTTON",
+                        "template":"SINGLE_ANSWER",
+                        "multiple":false,
+                        "other":false,
+                        "label":"",
+                        "description":"",
+                        "options":[
+                           {
+                              "label":"",
+                              "value":"O1"
+                           },
+                           {
+                              "label":"",
+                              "value":"O2"
+                           },
+                           {
+                              "label":"",
+                              "value":"O3"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "id":"S2",
+                  "isFooter":true,
+                  "label":"Your responses have been recorded.",
+                  "description":"Thank you for taking time to complete the survey. Your input is very valuable to us.",
+                  "questions":[
+
+                  ]
+               }
+            ]
+         },
+         "color":"purple lighten-1"
+      },
+      {
+         "id":5,
+         "createdDate":1513910369598,
+         "modifiedDate":1513910369598,
+         "sstatus":"Active",
+         "createdBy":null,
+         "modifiedBy":null,
+         "name":"Feature feedback and prioritization",
+         "description":"Gather and assess key product feature functionality feedback to rank and prioritize development actions.",
+         "category":"prioritization",
+         "template":{
+            "sections":[
+               {
+                  "id":"S1",
+                  "isHeader":true,
+                  "label":"",
+                  "description":"Thank you for participating in our research. The study will only take a few minutes to complete. All of your answers are private and confidential.",
+                  "questions":[
+                     {
+                        "id":"Q1",
+                        "field":"BUTTON",
+                        "template":"SINGLE_ANSWER",
+                        "multiple":false,
+                        "other":false,
+                        "label":"",
+                        "description":"",
+                        "options":[
+                           {
+                              "label":"",
+                              "value":"O1"
+                           },
+                           {
+                              "label":"",
+                              "value":"O2"
+                           },
+                           {
+                              "label":"",
+                              "value":"O3"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "id":"S2",
+                  "isFooter":true,
+                  "label":"Your responses have been recorded.",
+                  "description":"Thank you for taking time to complete the survey. Your input is very valuable to us.",
+                  "questions":[
+
+                  ]
+               }
+            ]
+         },
+         "color":"blue"
+      },
+      {
+         "id":6,
+         "createdDate":1513910369598,
+         "modifiedDate":1513910369598,
+         "sstatus":"Active",
+         "createdBy":null,
+         "modifiedBy":null,
+         "name":"Customer product experience",
+         "description":"Gain actionable user feedback relative to help you identify impactful product adjustments and better understand the customer mindset.",
+         "category":"experience",
+         "template":{
+            "sections":[
+               {
+                  "id":"S1",
+                  "isHeader":true,
+                  "label":"",
+                  "description":"Thank you for participating in our research. The study will only take a few minutes to complete. All of your answers are private and confidential.",
+                  "questions":[
+                     {
+                        "id":"Q1",
+                        "field":"BUTTON",
+                        "template":"SINGLE_ANSWER",
+                        "multiple":false,
+                        "other":false,
+                        "label":"",
+                        "description":"",
+                        "options":[
+                           {
+                              "label":"",
+                              "value":"O1"
+                           },
+                           {
+                              "label":"",
+                              "value":"O2"
+                           },
+                           {
+                              "label":"",
+                              "value":"O3"
+                           }
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "id":"S2",
+                  "isFooter":true,
+                  "label":"Your responses have been recorded.",
+                  "description":"Thank you for taking time to complete the survey. Your input is very valuable to us.",
+                  "questions":[
+
+                  ]
+               }
+            ]
+         },
+         "color":"blue lighten-2"
+      }
+   ],
+   "last":true,
+   "totalElements":6,
+   "totalPages":1,
+   "sort":null,
+   "first":true,
+   "numberOfElements":6,
+   "size":20,
+   "number":0
+}

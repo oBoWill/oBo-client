@@ -1,0 +1,28 @@
+{
+   "content":[
+      {
+         "id":1,
+         "uniqueName":"b2b",
+         "value":0,
+         "description":"",
+         "displayName":"B2B",
+         "isDefault":false
+      },
+      {
+         "id":2,
+         "uniqueName":"b2c",
+         "value":1,
+         "description":"",
+         "displayName":"B2C",
+         "isDefault":false
+      }
+   ],
+   "last":true,
+   "totalPages":1,
+   "totalElements":2,
+   "sort":null,
+   "first":true,
+   "numberOfElements":2,
+   "size":0,
+   "number":0
+}
